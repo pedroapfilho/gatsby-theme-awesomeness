@@ -17,5 +17,16 @@
     "gatsby": "^2.16.4",
     "react": "^16.10.2",
     "react-dom": "^16.10.2"
+  },
+  "dependencies": {
+    "babel-plugin-styled-components": "^1.10.6",
+    "gatsby-plugin-offline": "^3.0.16",
+    "gatsby-plugin-react-helmet": "^3.1.13",
+    "gatsby-plugin-sitemap": "^2.2.19",
+    "gatsby-plugin-styled-components": "^3.1.11",
+    "gatsby-plugin-typescript": "^2.1.15",
+    "gatsby-source-filesystem": "^2.1.33",
+    "react-helmet": "^5.2.1",
+    "styled-components": "^4.4.0"
   }
 }
