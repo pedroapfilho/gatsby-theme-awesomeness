@@ -1,7 +1,16 @@
 {
-  "private": true, 
+  "private": true,
   "workspaces": [
     "gatsby-theme-awesomeness",
     "example"
-  ]
+  ],
+  "scripts": {
+    "test": "xo"
+  },
+  "devDependencies": {
+    "xo": "^0.25.3"
+  },
+  "xo": {
+    "prettier": true
+  }
 }

@@ -1,19 +1,19 @@
-import React, { FC } from "react"
-import styled from "styled-components"
-import Helmet from "react-helmet"
-import { graphql } from "gatsby"
-import Img from "gatsby-image"
+import React, { FC } from "react";
+import styled from "styled-components";
+import Helmet from "react-helmet";
+import { graphql } from "gatsby";
+import Img from "gatsby-image";
 
 const StyledTitle = styled.h1`
   color: red;
-`
-const Index: FC<{data: any}> = ({data}) => (
+`;
+const Index: FC<{ data: any }> = ({ data }) => (
   <>
     <Helmet title="foo" defer={false} />
     <StyledTitle>test</StyledTitle>
     <Img fixed={data.file.childImageSharp.fixed} />
   </>
-)
+);
 
 export const query = graphql`
   query {
@@ -25,6 +25,6 @@ export const query = graphql`
       }
     }
   }
-`
+`;
 
-export default Index
+export default Index;
