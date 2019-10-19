@@ -5,6 +5,8 @@
     "example"
   ],
   "scripts": {
+    "develop": "yarn workspace example develop",
+    "publish": "yarn workspace gatsby-theme-awesomeness publish",
     "test": "xo"
   },
   "devDependencies": {
