@@ -11,6 +11,7 @@ module.exports = {
         policy: [{ userAgent: "*", allow: "/" }]
       }
     },
+    `gatsby-plugin-sitemap`,
     `gatsby-plugin-offline`
   ]
 };
