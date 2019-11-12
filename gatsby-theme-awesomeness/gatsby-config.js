@@ -6,9 +6,9 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
     {
-      resolve: "gatsby-plugin-robots-txt",
+      resolve: `gatsby-plugin-robots-txt`,
       options: {
-        policy: [{ userAgent: "*", allow: "/" }]
+        policy: [{ userAgent: `*`, allow: `/` }]
       }
     },
     `gatsby-plugin-sitemap`,

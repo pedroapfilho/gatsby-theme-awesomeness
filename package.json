@@ -10,9 +10,13 @@
     "test": "xo"
   },
   "devDependencies": {
+    "eslint-config-xo-react": "^0.20.0",
+    "eslint-plugin-react": "^7.16.0",
+    "eslint-plugin-react-hooks": "^2.2.0",
     "xo": "^0.25.3"
   },
   "xo": {
+    "extends": "xo-react",
     "prettier": true
   }
 }
