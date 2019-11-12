@@ -7,6 +7,7 @@ import Img from "gatsby-image";
 const StyledTitle = styled.h1`
   color: red;
 `;
+
 const Index: FC<{ data: any }> = ({ data }) => (
   <>
     <Helmet title="foo" defer={false} />
