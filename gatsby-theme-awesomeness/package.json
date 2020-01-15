@@ -9,14 +9,10 @@
     "clean": "gatsby clean"
   },
   "peerDependencies": {
-    "gatsby": "^2.16.4",
-    "react": "^16.11",
-    "react-dom": "^16.11"
+    "gatsby": "^2.16.4"
   },
   "devDependencies": {
-    "gatsby": "^2.18.22",
-    "react": "^16.11.0",
-    "react-dom": "^16.12.0"
+    "gatsby": "^2.18.22"
   },
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.6",
