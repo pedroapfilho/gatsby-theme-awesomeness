@@ -27,7 +27,7 @@
     "@types/react-helmet": "^5.0.15",
     "@types/styled-components": "^4.4.2",
     "eslint-config-xo-react": "^0.22.0",
-    "eslint-plugin-react": "^7.17.0",
+    "eslint-plugin-react": "^7.18.0",
     "eslint-plugin-react-hooks": "^2.3.0",
     "typescript": "^3.7.3",
     "xo": "^0.25.3"
