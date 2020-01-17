@@ -12,7 +12,7 @@
     "gatsby": "^2.16.4"
   },
   "devDependencies": {
-    "gatsby": "^2.18.22"
+    "gatsby": "^2.18.23"
   },
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.6",
