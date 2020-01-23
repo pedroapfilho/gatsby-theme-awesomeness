@@ -14,16 +14,16 @@
     "prettier": true
   },
   "dependencies": {
-    "gatsby": "^2.18.25",
+    "gatsby": "^2.19.3",
     "gatsby-source-filesystem": "^2.1.46",
     "gatsby-theme-awesomeness": "*",
     "react": "^16.11.0",
     "react-dom": "^16.12.0"
   },
   "devDependencies": {
-    "@types/node": "^13.1.8",
-    "@types/react": "^16.9.16",
-    "@types/react-dom": "^16.9.4",
+    "@types/node": "^13.5.0",
+    "@types/react": "^16.9.19",
+    "@types/react-dom": "^16.9.5",
     "@types/react-helmet": "^5.0.15",
     "@types/styled-components": "^4.4.2",
     "eslint-config-xo-react": "^0.22.0",
