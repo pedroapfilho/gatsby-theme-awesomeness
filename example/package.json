@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "gatsby": "^2.19.3",
-    "gatsby-source-filesystem": "^2.1.46",
+    "gatsby-source-filesystem": "^2.1.47",
     "gatsby-theme-awesomeness": "*",
     "react": "^16.11.0",
     "react-dom": "^16.12.0"
