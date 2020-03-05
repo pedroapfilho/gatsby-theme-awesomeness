@@ -6,12 +6,7 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "clean": "gatsby clean",
-    "test": "xo"
-  },
-  "xo": {
-    "extends": "xo-react",
-    "prettier": true
+    "clean": "gatsby clean"
   },
   "dependencies": {
     "gatsby": "^2.19.3",
@@ -29,7 +24,6 @@
     "eslint-config-xo-react": "^0.22.0",
     "eslint-plugin-react": "^7.18.0",
     "eslint-plugin-react-hooks": "^2.3.0",
-    "typescript": "^3.7.5",
-    "xo": "^0.25.3"
+    "typescript": "^3.7.5"
   }
 }
